@@ -1,0 +1,8 @@
+Created DB zoo in Postico and created table zoo_animals
+
+
+CREATE TABLE zoo_animals(
+id int PRIMARY KEY,
+animal varchar(20),
+animal_quantity varchar(20)
+);
